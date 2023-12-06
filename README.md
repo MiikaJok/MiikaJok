@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Miika</h1>
-<h3 align="center">A passionate IT student majoring in mobile development from Finland</h3>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+<h1 align="center">Hi 👋, I'm Miika from Finland</h1>
+<h3 align="center">A Passionate IT Student Majoring in Mobile Development and Interested in Web Development</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
-- 🔭 I’m currently working on [Swift project. Projects are mostly school projects and found in repos](https://github.com/MiikaJok?tab=repositories)
+- 🔭 I’m currently working on Swift project [Projects are mostly school projects and found in repos](https://github.com/MiikaJok?tab=repositories)
 
 - 🌱 I’m currently learning **Swift, SwiftUI and more mobile development**
-
-- 🔭 Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
+  
+- 📄 Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiikaJok?tab=repositories](https://github.com/MiikaJok?tab=repositories)
 
@@ -22,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miikajok&show_icons=true&locale=en&layout=compact" alt="miikajok" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miikajok&show_icons=true&locale=en" alt="miikajok" /></p>
+
