@@ -5,9 +5,7 @@
 <h3 align="center">A Passionate IT Student Majoring in Mobile Development and Interested in Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
-- 🔭 I’m currently working on Swift project [Projects are mostly school projects and found in repos](https://github.com/MiikaJok?tab=repositories)
-
-- 🌱 I’m currently learning **Swift, SwiftUI and more mobile development**
+- 🌱 I’m currently learning **Swift, but also the best practices of frontend and backend application development.**
   
 - 📄 Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
 
