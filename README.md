@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI and more mobile development**
 
-- Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
+- 🔭 Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiikaJok?tab=repositories](https://github.com/MiikaJok?tab=repositories)
 
