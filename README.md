@@ -1,15 +1,10 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
 <h1 align="center">Hi 👋, I'm Miika from Finland</h1>
 <h3 align="center">A Passionate IT Student Majoring in Mobile Development and Interested in Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
-- 🌱 I’m currently learning **the best practices of frontend and backend application development.**
+- 🌱 I’m currently learning **the best practices of Mobile application development.**
   
-- 📄 Last project native react mobile app as a school project [KämppisTinder](https://github.com/JerbsH/kamppistinder)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MiikaJok?tab=repositories](https://github.com/MiikaJok?tab=repositories)
+- 📄 Latest project ongoing with Kotlin. [Language Legends](https://github.com/JerbsH/Language-Legends)
 
 - 📫 How to reach me **miika.jokinen10@hotmail.com**
 
