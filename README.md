@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **the best practices of Mobile application development.**
   
-- 📄 Latest project ongoing with Kotlin. [Language Legends](https://github.com/JerbsH/Language-Legends)
+- 📄 Latest project ongoing with Kotlin. [Park-Spotter](https://github.com/JerbsH/Park-Spotter)
 
 - 📫 How to reach me **miika.jokinen10@hotmail.com**
 
