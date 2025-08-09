@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miika from Finland</h1>
-<h3 align="center">A Passionate ICT Student Majoring in Mobile Development and Interested in Web Development</h3>
+<h3 align="center">Currently Working at Aalto University as Integrations Developer trainee. Im also soon to be graduating ICT Student Majoring in Mobile Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
-- 🌱 I’m currently learning **the best practices of Mobile application development.**
-  
-- 📄 Latest project ongoing with Kotlin. [Park-Spotter](https://github.com/JerbsH/Park-Spotter)
-
+- 📄 Latest projects are work related C# programs.
+- 🌱 Learning **the best practices of Mobile application development In School.**
 - 📫 How to reach me **miika.jokinen10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
